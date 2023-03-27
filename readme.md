@@ -1,6 +1,4 @@
-----------------------------------------------------------------------Animation Nation---------------------
-
-Hello and welcome to Animation Nation, a project for Hacktoberfest 2021! This site aims to showcase your talent :)
+----------------------------------------------------------------------100DaysOfCode---------------------
 
 ---------------------------------------------------------------------------Rules-----------------------
 
@@ -22,7 +20,6 @@ How to contribute
 4:After adding the upstream and checking that all files are up to date, we now will create newbranch before editing any files. There are two ways to do so:
 
        git checkout -b <branch-name> (Preferrably your Name)
-       git branch <branch-name>
        git checkout <branch-name>
 
 5:Commit the changes that you made
